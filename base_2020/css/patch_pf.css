@@ -1,0 +1,126 @@
+/*[class*="ui-select"] {
+    
+}*/
+
+.ui-outputlabel {
+    font-weight: bold;
+    color: #1F1F1F;
+}
+
+
+.ui-selectonemenu-item {
+    background-color: #ffffff;
+
+}
+
+.ui-selectonemenu-row {
+    background-color: #ffffff;
+}
+
+.ui-widget-content {
+    background-color: #ffffff;
+}
+
+.ui-state-highlight{
+    background-color: #ffffff;
+}
+
+.ui-selectonemenu-items {
+    background-color: #ffffff;    
+    border-radius: 5px;
+    border-color: #E3E3E3;
+}
+.ui-selectonemenu-table{
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-color: #E3E3E3;
+}
+.ui-selectonemenu-panel{
+    padding-left: 5px;
+    background-color: #f7f7f7;    
+    border-radius: 5px;
+    border-color: #E3E3E3;
+} 
+
+.ui-widget-content {
+    background-color: #ffffff;
+}
+.ui-helper-hidden{
+    background-color: #ffffff;
+}
+.ui-shadow{
+    background-color: #ffffff;
+}
+
+.ui-datatable {
+    border-style: none;
+}
+
+
+
+
+
+.ui-fileupload-choose {
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    user-select: none;
+    transition: all .15s ease-in-out;
+    line-height: 1.35em;
+    margin: 5px 1px;
+    border: none;
+    border-width: 2px;
+    font-weight: 400;
+    font-size: 14px;
+    border-radius: 0.1875rem;
+    padding: 5px 15px;
+    background-color: #FFBE55;
+    color: #FFFFFF;
+}
+
+.ui-button-text{
+    padding-left: 0px  !important;
+    padding-right: 0px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.ui-fileupload-upload {
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    user-select: none;
+    transition: all .15s ease-in-out;
+    line-height: 1.35em;
+    margin: 5px 1px;
+    border: none;
+    border-width: 2px;
+    font-weight: 400;
+    font-size: 14px;
+    border-radius: 0.1875rem;
+    padding: 5px 15px;
+    background-color: #FF3636;
+    color: #FFFFFF;
+}
+
+.ui-button-icon-left{
+    display: none;
+    visibility: hidden;
+}
+
+.ui-fileupload-cancel {
+    display: none;
+    visibility: hidden;
+}
+
+.ui-fileupload-progress {
+    width: 1px;
+    visibility: hidden;
+    display: none;
+}
+
+.ui-state-active {
+    font-weight: bold;
+}
