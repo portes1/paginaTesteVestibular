@@ -81,8 +81,7 @@ require_once("data/info.php");
     <div class="modal-body">
          <center>
       <div>
-        <iframe src='https://webchat.botframework.com/embed/uenpchatbottest-bot-bot?s=_UhBBwiTTJ0.ImVBIZS_CmdCE4IGxF9-T3b2YQJUzdWyyphp1UGO9u4' width="400" height="500"></iframe>
-
+      <iframe src='https://webchat.botframework.com/embed/vestchatbotservice-bot?s=Pgkm1l8LaNA.mkvrT-2kMIg_HKW34oTVVdMJ_GwuIJM4vo_mrLX21o4'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
     </div>
         </center>
       </div>
